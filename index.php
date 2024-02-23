@@ -12,7 +12,7 @@
       <button onclick="window.location.href='shop.php'">Shop Now</button>
     </div>
   </section>
-  <!-- Brand -->
+  <!-- brand -->
   <section id="brand" class="container">
     <div class="row">
       <img src="assets/imgs/brand1.png" class="img-fluid col-lg-3 col-md-6 col-sm-12">
